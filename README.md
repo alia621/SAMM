@@ -14,6 +14,7 @@ The MM-IMDb 2.0 dataset is available from the original IDKG project:
 
 - **MM-IMDb 2.0:** [Download from Google Drive](https://drive.google.com/file/d/1fmU3ZKM3ieTDeTAeyK1uT9sFVvaGplIp/view?usp=sharing)
 - **Original IDKG Repository:** https://github.com/aoluming/IDKG
+- **embeddings**https://drive.google.com/drive/folders/17w4daZvoF_1DqkLxGsGg_61xy6VAMshM?usp=drive_link
 
 Please download the dataset from the original source and configure the corresponding data paths before running the code.
 
