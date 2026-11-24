@@ -1,4 +1,4 @@
-# Code for Multimodal Movie Genre Classification
+# Modeling Multimodal Structures for Movie Genre Recognition
 
 This repository provides the implementation of our proposed framework for multimodal movie genre classification, submitted to *Information Fusion*.
 
